@@ -1,5 +1,5 @@
 # KinematicAC
-Demo Implementation of Motion Matching in Adventure Creator with the help of the Kinematic Character Controller.
+Demo Implementation of Motion Matching into Adventure Creator with the help of the Kinematic Character Controller.
 
 First things first. This small project is still in early alpha.
 
